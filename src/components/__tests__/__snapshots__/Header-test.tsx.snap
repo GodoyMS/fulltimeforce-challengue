@@ -1,0 +1,217 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component renders correctly when drawer is closed 1`] = `
+<View
+  accessibilityIgnoresInvertColors={true}
+  style={
+    [
+      {
+        "paddingBottom": 40,
+        "paddingHorizontal": 32,
+        "paddingTop": 96,
+      },
+      {
+        "backgroundColor": "#F3F3F3",
+      },
+    ]
+  }
+>
+  <Image
+    accessibilityRole="image"
+    source={
+      {
+        "testUri": "../Libraries/NewAppScreen/components/logo.png",
+      }
+    }
+    style={
+      [
+        {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        },
+        {
+          "height": undefined,
+          "width": undefined,
+        },
+        {
+          "marginBottom": -192,
+          "marginLeft": -128,
+          "opacity": 0.2,
+          "overflow": "visible",
+          "resizeMode": "cover",
+        },
+      ]
+    }
+    testID="new-app-screen-header"
+  />
+  <Text
+    style={
+      [
+        {
+          "fontSize": 40,
+          "fontWeight": "700",
+          "textAlign": "center",
+        },
+        {
+          "color": "#000",
+        },
+      ]
+    }
+  >
+    Welcome to
+    
+
+    React Native
+  </Text>
+</View>
+`;
+
+exports[`Header component renders correctly when drawer is closed 2`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+      "paddingHorizontal": 30,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "opacity": 1,
+      }
+    }
+  >
+    <Image
+      source={
+        {
+          "testUri": "../../../src/assets/images/icons/menu.png",
+        }
+      }
+      style={
+        {
+          "height": 24,
+          "width": 24,
+        }
+      }
+    />
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "opacity": 1,
+      }
+    }
+  >
+    MaterialCommunityIcons
+  </View>
+</View>
+`;
+
+exports[`renders ThemedBadge correctly with a title 1`] = `
+<View
+  style={{}}
+>
+  <ViewManagerAdapter_ExpoLinearGradient
+    colors={
+      [
+        4279383126,
+        4284826401,
+      ]
+    }
+    style={
+      {
+        "borderRadius": 50,
+        "padding": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        [
+          undefined,
+          undefined,
+          undefined,
+          {
+            "fontSize": 16,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          {
+            "fontFamily": "DMMedium",
+          },
+          undefined,
+          {
+            "color": "#ffffff",
+          },
+          undefined,
+        ]
+      }
+    >
+      Hello World
+    </Text>
+  </ViewManagerAdapter_ExpoLinearGradient>
+</View>
+`;
