@@ -55,7 +55,7 @@ To test the app on iOS, you can use **Expo Go**. This method does not require an
 
    ```bash
    git clone https://github.com/GodoyMS/fulltimeforce-challengue.git
-   cd your-project-folder
+   cd fulltimeforce-challengue
 
 2. **Install Expo Go on your iPhone**:
    - Go to the **App Store** on your iPhone and search for **Expo Go**.
@@ -86,6 +86,6 @@ To test the app on iOS, you can use **Expo Go**. This method does not require an
 
 You can also run the app in your local development environment by using the following commands:
 
-- **Start the project**:
+- **Unit test**:
   ```bash
-  npm start
+  npm run test

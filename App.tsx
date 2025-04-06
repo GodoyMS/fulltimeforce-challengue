@@ -1,6 +1,5 @@
 import RootStackNavigation from "@navigations/RootNavigation";
 import { useFonts } from "expo-font";
-import 'react-native-gesture-handler'; // Import at the very top
 
 export default function App(){
 
