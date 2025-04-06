@@ -1,7 +1,11 @@
 # FullTimeForce Challenge App
 
-<img src="screenshots/1.png" alt="Screenshot 1" width="300"/>
-<img src="screenshots/2.png" alt="Screenshot 2" width="300"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="screenshots/1.png" alt="Screenshot 1" width="30%" />
+  <img src="screenshots/2.png" alt="Screenshot 2" width="30%" />
+  <img src="screenshots/3.png" alt="Screenshot 3" width="30%" />
+
+</div>
 This is a React Native app created using Expo. It is built to provide a seamless experience for the user, and you can easily run it on your device for testing purposes.
 
 ## Prerequisites
